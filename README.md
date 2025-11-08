@@ -1,8 +1,7 @@
 ###
 
-* [📚] Learning Type Theory and Logic
+* [📚] Learning PLT and Type Theory
 * [⚡] Skilled on Functional Programming
-* [❤] Loved Lean4, Haskell and C#
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Qiu233&theme=radical"/>
